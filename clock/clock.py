@@ -105,7 +105,7 @@ class Window(QMainWindow):
     def Pause(self):
         
         # making flag to false
-        self.flag = false
+        self.flag = False
 
     def Re_set(self):
 
