@@ -11,4 +11,6 @@ great start. The projects arn't very difficult. You will also learn some of the 
 - [Fidget Spinner](https://github.com/jibran-mohammad/Fun-Projects/tree/main/snakeGame)
 - [Covid telegram bot](https://github.com/jibran-mohammad/Fun-Projects/tree/main/telegramBot)
 - [Analog Clock](https://github.com/jibran-mohammad/Fun-Projects/tree/main/analogclock)
+- [WebCamPaint](https://github.com/jibran-mohammad/Fun-Projects/tree/main/webcamPaint)
+- [SmileDetection](https://github.com/jibran-mohammad/Fun-Projects/tree/main/smileDetection)
 
