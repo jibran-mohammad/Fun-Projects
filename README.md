@@ -10,4 +10,5 @@ great start. The projects arn't very difficult. You will also learn some of the 
 - [SnakeGame](https://github.com/jibran-mohammad/Fun-Projects/tree/main/snakeGame)
 - [Fidget Spinner](https://github.com/jibran-mohammad/Fun-Projects/tree/main/snakeGame)
 - [Covid telegram bot](https://github.com/jibran-mohammad/Fun-Projects/tree/main/telegramBot)
+- [Analog Clock](https://github.com/jibran-mohammad/Fun-Projects/tree/main/analogclock)
 
