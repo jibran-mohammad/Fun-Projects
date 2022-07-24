@@ -13,4 +13,5 @@ great start. The projects arn't very difficult. You will also learn some of the 
 - [Analog Clock](https://github.com/jibran-mohammad/Fun-Projects/tree/main/analogclock)
 - [WebCamPaint](https://github.com/jibran-mohammad/Fun-Projects/tree/main/webcamPaint)
 - [SmileDetection](https://github.com/jibran-mohammad/Fun-Projects/tree/main/smileDetection)
+- [Card Draw](https://github.com/jibran-mohammad/Fun-Projects/tree/main/card%20draw)
 
