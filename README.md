@@ -14,4 +14,5 @@ great start. The projects arn't very difficult. You will also learn some of the 
 - [WebCamPaint](https://github.com/jibran-mohammad/Fun-Projects/tree/main/webcamPaint)
 - [SmileDetection](https://github.com/jibran-mohammad/Fun-Projects/tree/main/smileDetection)
 - [Card Draw](https://github.com/jibran-mohammad/Fun-Projects/tree/main/card%20draw)
+- [Age and Gender Dectection](https://github.com/jibran-mohammad/Fun-Projects/tree/main/AgeAndGenderDetection)
 
